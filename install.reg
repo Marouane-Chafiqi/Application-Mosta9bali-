@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Classes\orientationmost9bali]
+@="URL:Orientation Most9bali"
+"URL Protocol"=""
+
+[HKEY_CURRENT_USER\Software\Classes\orientationmost9bali\shell\open\command]
+@="\"C:\\Users\\Admin\\Documents\\bureau\\application\\orientation_most9bali.exe\""
