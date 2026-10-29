@@ -32,7 +32,8 @@ Application d'orientation scolaire destinée aux élèves de 3ème année collè
 
 | Écran d'accueil | Choix du niveau scolaire |
 |:---:|:---:|
-| <img src="screenshots/01-accueil.png" width="420" alt="Écran d'accueil"/> | <img src="screenshots/02-niveau-scolaire.png" width="420" alt="Choix du niveau scolaire"/> |
+|<img width="1280" height="640" alt="Capture d&#39;écran 2026-10-29 212622" src="https://github.com/user-attachments/assets/70c19e72-2216-4ee6-8f0b-40780e6623c8" /> | <img width="1280" height="619" alt="Capture d&#39;écran 2026-10-29 212558" src="https://github.com/user-attachments/assets/bbba4832-a47d-4436-9808-db18e5165510" />
+ |
 | Bienvenue sur Most9bali, bouton **Commencer** | 3ème année collège · Baccalauréat · Équipe & Information |
 
 </div>
